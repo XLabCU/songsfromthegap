@@ -57,6 +57,7 @@ Should you encounter a gap whose sonic signature resonates with you, use the **S
 
 Clone, and with node.js already installed:
 
-```npm install
+```npm
+npm install
 npm run dev
 ```
